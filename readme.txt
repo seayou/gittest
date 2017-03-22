@@ -16,4 +16,11 @@ Git鼓励大量使用分支：
 
 删除分支：git branch -d <name>
 
+
 Creating a new branch is quick & simple.
+
+add branch dev
+
+add branch test
+Creating a new branch is quick AND simple.
+

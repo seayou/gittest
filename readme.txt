@@ -19,3 +19,4 @@ Git鼓励大量使用分支：
 add branch dev
 
 add branch test
+Creating a new branch is quick AND simple.

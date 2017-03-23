@@ -24,3 +24,10 @@ add branch dev
 add branch test
 Creating a new branch is quick AND simple.
 
+
+git commit
+
+
+git config --global --list
+
+
